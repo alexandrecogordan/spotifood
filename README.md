@@ -7,6 +7,7 @@
 * Object detection feature that recognizes meals in real time with video feedback or through the camera roll.
 * Geographical feature that finds restaurants serving the detected meal around the user.
 * Augmented reality feature that displays a 3D text on the detected food and allows the user to model a 3D object of the food.
+
 ## Requirements
 
 * iOS 16.2 or later
@@ -17,7 +18,7 @@
 
 To install Spotifood, follow these steps:
 
-1. Clone the repository to your local machine using git clone https://github.com/yourusername/spotifood.git
+1. Clone the repository to your local machine using git clone https://github.com/alexandrecogordan/spotifood.git.
 2. Open the project in Xcode.
 3. Build and run the app on your iOS device or simulator.
 
@@ -32,7 +33,7 @@ To use Spotifood, follow these steps:
 
 ## Contributing
 
-We welcome contributions to Spotifood! To contribute:
+I am more than welcoming to contributions! To contribute:
 
 1. Fork the repository on GitHub.
 2. Make your changes and commit them with descriptive commit messages.
@@ -44,4 +45,4 @@ Spotifood is licensed under the MIT License. See LICENSE for more information.
 
 ## Contact
 
-If you have any questions or feedback about Spotifood, please contact us at alexandre.cogordan@edu.devinci.fr.
+If you have any questions or feedback about Spotifood, please contact me at alexandre.cogordan@edu.devinci.fr.
